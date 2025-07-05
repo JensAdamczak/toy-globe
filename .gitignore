@@ -1,0 +1,9 @@
+*.blend
+*.wav
+*.Rproj*
+*.mov
+*.DS_Store
+*.mp4
+*.Rhistory
+
+.Rproj.user
