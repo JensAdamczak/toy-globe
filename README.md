@@ -5,7 +5,7 @@
 ### Get data
 Topgraphy: [NASA topography data](https://neo.gsfc.nasa.gov/view.php?datasetId=SRTM_RAMP2_TOPO)
 
-NASA blue marbel images (360x180px): [NASA blue marbel](https://neo.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG)
+NASA blue marble images (360x180px): [NASA blue marble](https://neo.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG)
 
 ### Prepapre csv for Blender
 [R script](globes_data_preparation.R) to prepare table with height, lat, lon, and r/g/b values for Blender.
