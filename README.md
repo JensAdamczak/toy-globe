@@ -4,6 +4,7 @@
 
 ### Get data
 Topgraphy: [NASA topography data](https://neo.gsfc.nasa.gov/view.php?datasetId=SRTM_RAMP2_TOPO)
+
 NASA blue marbel images (360x180px): [NASA blue marbel](https://neo.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG)
 
 ### Prepapre csv for Blender
